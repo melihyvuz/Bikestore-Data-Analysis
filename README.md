@@ -21,7 +21,7 @@ Bu proje, bir bisiklet mağazasının satış, stok ve personel performansını 
 3. **Staff Performance:** Ranking by total orders.
 
 ### 📊 Database Schema
-![Database Schema](visuals:/database_schema_diagram.png)
+![Database Schema](visuals/database_schema_diagram.png)
 
 </details>
 
@@ -39,7 +39,7 @@ Bu proje, bir bisiklet mağazasının satış, stok ve personel performansını 
 3. **Personel Performansı:** Toplam siparişe göre sıralama.
 
 ### 📊 Veritabanı Şeması
-![Database Schema](visuals:/database_schema_diagram.png)
+![Database Schema](visuals/database_schema_diagram.png)
 
 </details>
 
